@@ -1,0 +1,16 @@
+{
+  "name": "tutorial5",
+  "version": "1.0.0",
+  "description": "tutorial 5 code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Jasmeet singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
